@@ -1,4 +1,8 @@
-<h1 align="center">Sistema de livros para uma biblioteca/Book system for a library</h1>
+<h1 align="center">Sistema de livros para uma biblioteca/Book system for a library (In Portuguese)</h1>
+
+Esse projeto foi feito como o trabalho final da disciplina de Linguagens I no Instituto Federal do Sul de Minas Gerais.
+
+This project was carried out as the final work of the Languages I discipline at the Instituto Federal do Sul de Minas Gerais.
 
 ### Linguagens Utilizadas/Languages Used:
 * C#
@@ -19,27 +23,31 @@
 ### Tela de login/Login screen:
 
 <figure>
-  
+   <img src=".github/login-screen.png" alt="Login Screen">
 </figure>
 
 ### Tela de Cadastro/Registration Screen:
 
 <figure>
+  <img src=".github/registration-screen.png" alt="Registration Screen">
 </figure>
 
 ### Tela de Adicionar Categoria/Add Category Screen:
 
 <figure>
+  <img src=".github/genre-screen.png" alt="Add Genre Screen">
 </figure>
 
 ### Tela de Busca/Search Screen:
 
 <figure>
+  <img src=".github/search-screen.png" alt="Search Screen">
 </figure>
 
 ### Tela de Alteração/Change Screen:
 
 <figure>
+  <img src=".github/change-screen.png" alt="Change Screen">
 </figure>
 
 
